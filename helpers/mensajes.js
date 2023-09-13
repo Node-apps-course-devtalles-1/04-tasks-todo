@@ -5,7 +5,7 @@ const mostrarMenu = () => {
     console.clear()
 
     console.log('**********************************'.green)
-    console.log('       Seleccione una opcion       '.green)
+    console.log('       Select a option       '.green)
     console.log('**********************************\n'.green)
 
     console.log(`${'1.'.green} Crear una tarea`)
